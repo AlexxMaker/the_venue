@@ -2,6 +2,7 @@ import React from 'react';
 
 //COMPONENTS
 import Carrousel from './Carrousel'
+import TimeUntill from './TimeUntill'
 
 const Featured = () => {
     return (
@@ -11,10 +12,12 @@ const Featured = () => {
 
             <div className="artist_name">
                 <div className="wrapper">
-                    METALLICA
+                    MetallicA
                 </div>
             </div>
 
+            <TimeUntill />
+            
         </div>
     );
 }

@@ -94,7 +94,6 @@ footer .footer_copyright {
     -webkit-transform: translate(-50%, -50%);  
     transform: translate(-50%, -50%);   
     border: 2px solid white;
-    font-family: 'Pastor of Muppets', arial !important;
 }
 
 .artist_name .wrapper {
